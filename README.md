@@ -1,4 +1,6 @@
-# DISCLAIMER: this website is no longer updated.
+## DISCLAIMER: this website is no longer updated.
+
+A brand new version of hsuallen.com will be released soon.
 
 # Personal Website
 
