@@ -1,3 +1,5 @@
+# DISCLAIMER: this website is no longer updated.
+
 # Personal Website
 
 This is the repository for my personal website hsuallen.com. More updates coming soon. Also there will be a fully new design coming soon possibly in the summer.
